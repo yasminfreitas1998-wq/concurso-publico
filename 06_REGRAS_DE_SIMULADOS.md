@@ -12,9 +12,8 @@ Distribuição obrigatória:
 A ordem deve seguir a prova:
 1. Língua Portuguesa
 2. Raciocínio Lógico-Matemático
-3. Informática
-4. Legislação
-5. Conhecimentos Específicos
+3. Legislação
+4. Conhecimentos Específicos
 
 O simulado deve misturar dificuldades:
 - 25% fáceis;
