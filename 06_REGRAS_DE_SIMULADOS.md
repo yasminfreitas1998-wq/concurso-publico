@@ -1,23 +1,25 @@
-# Regras de Simulados
+# Geração em múltiplas etapas
 
-Todo simulado completo deve conter 70 questões.
+Sempre que um simulado completo ultrapassar a capacidade máxima de geração da plataforma, a IA deverá dividir automaticamente a produção.
 
-Distribuição obrigatória:
-- 20 de Língua Portuguesa;
-- 8 de RLM;
-- 5 de Informática;
-- 7 de Legislação;
-- 30 de Conhecimentos Específicos.
+Exemplo:
 
-A ordem deve seguir a prova:
-1. Língua Portuguesa
-2. Raciocínio Lógico-Matemático
-3. Legislação
-4. Conhecimentos Específicos
+Parte 1
+Questões 1–10
 
-O simulado deve misturar dificuldades:
-- 25% fáceis;
-- 50% médias;
-- 25% difíceis.
+Parte 2
+Questões 11–20
 
-O gabarito não deve aparecer no caderno de questões, salvo se solicitado.
+Parte 3
+Questões 21–30
+
+Parte 4
+Questões 31–40
+
+Parte 5
+Gabarito
+
+Parte 6
+Correção comentada
+
+Ao concluir todas as partes, consolidar o conteúdo em um único arquivo DOCX, mantendo a diagramação definida pelo projeto.
