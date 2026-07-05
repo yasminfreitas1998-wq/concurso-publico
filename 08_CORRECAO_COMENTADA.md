@@ -1,14 +1,10 @@
-# Correção Comentada
+Quando o usuário solicitar simulado com correção comentada, o gabarito e os comentários devem aparecer apenas ao final do arquivo, em página separada, depois de todas as questões.
 
-Ao gerar gabarito comentado, incluir:
-
+A correção comentada deve conter:
 - número da questão;
 - alternativa correta;
-- justificativa da correta;
-- por que as demais estão erradas;
 - assunto;
-- subassunto;
-- nível de dificuldade;
-- referência legal ou teórica, quando aplicável.
+- justificativa objetiva da resposta;
+- explicação breve do erro das demais alternativas, quando necessário.
 
-A explicação deve ser objetiva, mas suficiente para revisão.
+Nunca inserir o gabarito logo após cada questão, salvo se o usuário pedir expressamente.
