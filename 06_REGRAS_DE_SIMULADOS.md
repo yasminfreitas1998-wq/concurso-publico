@@ -67,6 +67,15 @@ Priorizar cobertura do edital.
 
 Questões mais objetivas.
 
+
+Os simulados possuem finalidades diferentes.
+
+O Simulado Prova prioriza fidelidade ao estilo da banca.
+
+O Simulado Revisão prioriza aprendizagem.
+
+A IA nunca deverá transformar um Simulado Revisão em um Simulado Prova nem vice-versa, salvo solicitação explícita do usuário.
+
 Maior volume.
 
 Foco em revisão.
