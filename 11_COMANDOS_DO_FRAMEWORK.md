@@ -41,6 +41,21 @@ Por dificuldade
 
 ---
 
+
+## Comando
+
+Simulado Prova
+
+Configuração padrão:
+
+- 100 questões
+- Estilo FGV
+- Casos contextualizados
+- Alta densidade interpretativa
+- Diagramação FGV
+- Gabarito
+- Correção comentada
+
 ## Engenharia Reversa da Prova
 
 ---
