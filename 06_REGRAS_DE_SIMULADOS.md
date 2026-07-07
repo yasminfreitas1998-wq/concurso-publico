@@ -48,4 +48,27 @@ As questões devem priorizar:
 - armadilhas de termos absolutos;
 - prazos e regras legais da LAI, LGPD e Marco Civil.
 
+
+## Simulado Prova
+
+Priorizar fidelidade ao estilo da FGV.
+
+Questões contextualizadas.
+
+Maior densidade interpretativa.
+
+Tempo de leitura semelhante ao da prova.
+
+---
+
+## Simulado Revisão
+
+Priorizar cobertura do edital.
+
+Questões mais objetivas.
+
+Maior volume.
+
+Foco em revisão.
+
 Sempre que houver conflito entre a regra geral de geração de questões e a orientação específica de Comunicação Social, prevalece a orientação específica de Comunicação Social.
