@@ -48,6 +48,15 @@ Sempre utilizar
 
 Duas colunas
 
+
+Simulado padrão:
+
+100 questões
+
+Comunicação revisão:
+
+60 questões
+
 Linha divisória
 
 Fonte Arial 10
