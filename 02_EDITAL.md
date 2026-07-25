@@ -1,3 +1,6 @@
+Objetivo deste arquivo:
+Definir, de forma exaustiva, todos os conteúdos passíveis de cobrança neste concurso. Este documento é a única fonte autorizada para determinar quais assuntos podem ou não ser utilizados na geração de materiais de estudo.
+
 Este documento representa a referência oficial de conteúdo deste projeto.
 
 Todo material produzido deverá respeitar exclusivamente os assuntos previstos neste arquivo.
@@ -6,14 +9,323 @@ Quando houver conflito entre qualquer conhecimento interno da IA e este document
 
 É proibido gerar questões, simulados ou materiais sobre assuntos que não estejam previstos neste documento.
 
-CONHECIMENTOS GERAIS:
-LÍNGUA PORTUGUESA: 1 Compreensão e interpretação de textos de gêneros variados. 2 Reconhecimento de tipos e gêneros textuais. 3 Domínio da ortografia oficial. 4 Domínio dos mecanismos de coesão textual. 4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual. 4.2 Emprego de tempos e modos verbais. 5 Domínio da estrutura morfossintática do período. 5.1 Emprego das classes de palavras. 5.2 Relações de coordenação entre orações e entre termos da oração. 5.3 Relações de subordinação entre orações e entre termos da oração. 5.4 Emprego dos sinais de pontuação. 5.5 Concordância verbal e nominal. 5.6 Regência verbal e nominal. 5.7 Emprego do sinal indicativo de crase. 5.8 Colocação dos pronomes átonos. 6 Reescrita de frases e parágrafos do texto. 6.1 Significação das palavras. 6.2 Substituição de palavras ou de trechos de texto. 6.3 Reorganização da estrutura de orações e de períodos do texto. 6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
-LÍNGUA INGLESA: 1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
-RACIOCÍNIO LÓGICO: 1 Estruturas lógicas. 2 Lógica de argumentação: analogias, inferências, deduções e conclusões. 3 Lógica sentencial (ou proposicional). 3.1 Proposições simples e compostas. 3.2 Tabelas-verdade. 3.3 Equivalências. 3.4 Diagramas lógicos. 4
-Lógica de primeira ordem. 5 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais
-ATUALIDADES E INTELIGÊNCIA ARTIFICIAL: 1 Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia. 2 Inteligência Artificial: fundamentos e aplicações: conceitos de inteligência artificial; aprendizado da máquina; introdução aos modelos generativos e modelos de linguagem; ética, governança e privacidade em IA.
-LEGISLAÇÃO ACERCA DE SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS: 1 Lei nº 12.527/2011 (Lei de Acesso à Informação): capítulos I, II, III, IV e V; Dec. nº 7.724 e nº 7845. 2 Lei nº 12.737/2012 (Lei de Delitos Informáticos): art. 2º. 3 Lei nº 12.965/2014 (Marco Civil da Internet): capítulos II, Seção I, e III, Seções I e II. 4 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD): capítulos I, II, III, IV, VII, VIII e IX.
+# CONHECIMENTOS GERAIS
 
-CONHECIMENTOS ESPECÍFICOS - COMUNICAÇÃO SOCIAL
-1 Comunicação organizacional e comunicação pública. 1.1 Conceitos, fundamentos e evolução da comunicação organizacional. 1.2 Comunicação institucional, mercadológica, interna e administrativa. 1.3 Comunicação integrada. 1.4 Comunicação pública e interesse público. 1.5 Transparência pública, participação social e prestação de contas. 1.6 Linguagem simples e comunicação com o cidadão. 1.7 Lei de Acesso à Informação (LAI). 1.8 Lei Geral de Proteção de Dados Pessoais (LGPD) aplicada à comunicação. 2 Jornalismo e produção de conteúdo. 2.1 História e conceitos do jornalismo. 2.2 Critérios de noticiabilidade. 2.3 Produção, apuração, entrevista, redação, edição e revisão de conteúdos. 2.4 Gêneros jornalísticos. 2.5 Técnicas de redação jornalística. 2.6 Lead, sublead, pirâmide invertida e storytelling. 2.7 Produção de conteúdo para jornal, revista, rádio, televisão, internet e plataformas digitais. 2.8 Fact-checking e combate à desinformação. 2.9 Ética jornalística. 3 Comunicação institucional e assessoria de imprensa. 3.1 Assessoria de imprensa. 3.2 Planejamento de relacionamento com a imprensa. 3.3 Atendimento à imprensa. 3.4 Media training. 3.5 Releases, notas oficiais, artigos, sugestões de pauta e press kit. 3.6 Organização de entrevistas coletivas e eventos para imprensa. 3.7 Clipping, monitoramento e análise de mídia. 3.8 Gestão de imagem e reputação institucional. 3.9 Comunicação de crise. 4 Comunicação digital e redes sociais. 4.1 Planejamento de comunicação digital. 4.2 Redes sociais e plataformas digitais. 4.3 Produção de conteúdo multiplataforma. 4.4 Calendário editorial. 4.5 Storytelling digital. 4.6 Copywriting e UX Writing. 4.7 Gestão de comunidades e relacionamento digital. 4.8 Monitoramento de redes sociais. 4.9 Gestão de crises em ambientes digitais. 4.10 Boas práticas para comunicação digital. 4.11 Acessibilidade digital. 5 Marketing institucional e branding. 5.1 Conceitos de marketing. 5.2 Marketing institucional. 5.3 Branding. 5.4 Posicionamento institucional. 5.5 Gestão de marca. 5.6 Comunicação integrada de marketing. 5.7 Marketing de conteúdo. 5.8 Campanhas institucionais. 5.9 Planejamento e avaliação de campanhas. 6 Comunicação interna e relacionamento com públicos. 6.1 Comunicação interna. 6.2 Endomarketing. 6.3 Gestão da mudança. 6.4 Cultura organizacional. 6.5 Canais internos de comunicação. 6.6 Públicos estratégicos e stakeholders. 6.7 Técnicas de relações públicas. 7 Planejamento e gestão da comunicação. 7.1 Planejamento estratégico de comunicação. 7.2 Plano de comunicação. 7.3 Diagnóstico e auditoria de comunicação. 7.4 Governança da comunicação. 7.5 Gestão de projetos de comunicação. 7.6 Comunicação baseada em
-dados (Data Driven Communication). 7.7 Indicadores de desempenho (KPIs) e métricas. 7.8 Pesquisa de imagem, reputação e satisfação. 7.9 Pesquisas qualitativas e quantitativas. 7.10 Métodos de amostragem, elaboração de questionários e grupos focais. 8 Produção editorial, design e audiovisual. 8.1 Planejamento editorial. 8.2 Editoração eletrônica. 8.3 Design aplicado à comunicação institucional. 8.4 Produção gráfica e digital. 8.5 Produção audiovisual. 8.6 Roteirização para vídeo e podcast. 8.7 Fotografia institucional. 8.8 Infográficos e visualização da informação. 9 Ferramentas de comunicação. 9.1 Ferramentas de edição de imagem, vídeo e diagramação do Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro e After Effects) ou equivalentes. 9.2 Ferramentas colaborativas para produção de conteúdo. 9.3 Conceitos de gestão de conteúdo (CMS). 10 Comunicação, inovação e tecnologia. 10.1 Inteligência Artificial aplicada à comunicação. 10.2 Uso ético da Inteligência Artificial na produção de conteúdo. 10.3 Curadoria e validação de informações produzidas com apoio de IA. 10.4 Desinformação, fake news e deepfakes. 10.5 Tendências da comunicação digital.
+## Língua Portuguesa
+
+1 Compreensão e interpretação de textos de gêneros variados.
+
+2 Reconhecimento de tipos e gêneros textuais.
+
+3 Domínio da ortografia oficial.
+
+4 Domínio dos mecanismos de coesão textual.
+
+4.1 Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+
+4.2 Emprego de tempos e modos verbais.
+
+5 Domínio da estrutura morfossintática do período.
+
+5.1 Emprego das classes de palavras.
+
+5.2 Relações de coordenação entre orações e entre termos da oração.
+
+5.3 Relações de subordinação entre orações e entre termos da oração.
+
+5.4 Emprego dos sinais de pontuação.
+
+5.5 Concordância verbal e nominal.
+
+5.6 Regência verbal e nominal.
+
+5.7 Emprego do sinal indicativo de crase.
+
+5.8 Colocação dos pronomes átonos.
+
+6 Reescrita de frases e parágrafos do texto.
+
+6.1 Significação das palavras.
+
+6.2 Substituição de palavras ou de trechos de texto.
+
+6.3 Reorganização da estrutura de orações e de períodos do texto.
+
+6.4 Reescrita de textos de diferentes gêneros e níveis de formalidade.
+
+---
+
+## Língua Inglesa
+
+1 Compreensão de textos em língua inglesa e itens gramaticais relevantes para o entendimento dos sentidos dos textos.
+
+---
+
+## Raciocínio Lógico
+
+1 Estruturas lógicas.
+
+2 Lógica de argumentação: analogias, inferências, deduções e conclusões.
+
+3 Lógica sentencial (ou proposicional).
+
+3.1 Proposições simples e compostas.
+
+3.2 Tabelas-verdade.
+
+3.3 Equivalências.
+
+3.4 Diagramas lógicos.
+
+4 Lógica de primeira ordem.
+
+5 Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
+
+---
+
+## Atualidades e Inteligência Artificial
+
+1 Tópicos relevantes e atuais de diversas áreas, tais como segurança, transportes, política, economia, sociedade, educação, saúde, cultura, tecnologia, energia, relações internacionais, desenvolvimento sustentável e ecologia.
+
+2 Inteligência Artificial: fundamentos e aplicações:
+
+- conceitos de inteligência artificial;
+- aprendizado de máquina;
+- introdução aos modelos generativos e modelos de linguagem;
+- ética, governança e privacidade em IA.
+
+---
+
+## Legislação acerca de Segurança da Informação e Proteção de Dados
+
+1 Lei nº 12.527/2011 (Lei de Acesso à Informação):
+
+- capítulos I, II, III, IV e V;
+- Decreto nº 7.724;
+- Decreto nº 7.845.
+
+2 Lei nº 12.737/2012 (Lei de Delitos Informáticos):
+
+- art. 2º.
+
+3 Lei nº 12.965/2014 (Marco Civil da Internet):
+
+- Capítulo II, Seção I;
+- Capítulo III, Seções I e II.
+
+4 Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais – LGPD):
+
+- capítulos I, II, III, IV, VII, VIII e IX.
+
+# CONHECIMENTOS ESPECÍFICOS
+
+## Comunicação Social
+
+### 1. Comunicação Organizacional e Comunicação Pública
+
+1.1 Conceitos, fundamentos e evolução da comunicação organizacional.
+
+1.2 Comunicação institucional, mercadológica, interna e administrativa.
+
+1.3 Comunicação integrada.
+
+1.4 Comunicação pública e interesse público.
+
+1.5 Transparência pública, participação social e prestação de contas.
+
+1.6 Linguagem simples e comunicação com o cidadão.
+
+1.7 Lei de Acesso à Informação (LAI).
+
+1.8 Lei Geral de Proteção de Dados Pessoais (LGPD) aplicada à comunicação.
+
+---
+
+### 2. Jornalismo e Produção de Conteúdo
+
+2.1 História e conceitos do jornalismo.
+
+2.2 Critérios de noticiabilidade.
+
+2.3 Produção, apuração, entrevista, redação, edição e revisão de conteúdos.
+
+2.4 Gêneros jornalísticos.
+
+2.5 Técnicas de redação jornalística.
+
+2.6 Lead, sublead, pirâmide invertida e storytelling.
+
+2.7 Produção de conteúdo para jornal, revista, rádio, televisão, internet e plataformas digitais.
+
+2.8 Fact-checking e combate à desinformação.
+
+2.9 Ética jornalística.
+
+---
+
+### 3. Comunicação Institucional e Assessoria de Imprensa
+
+3.1 Assessoria de imprensa.
+
+3.2 Planejamento de relacionamento com a imprensa.
+
+3.3 Atendimento à imprensa.
+
+3.4 Media training.
+
+3.5 Releases, notas oficiais, artigos, sugestões de pauta e press kit.
+
+3.6 Organização de entrevistas coletivas e eventos para imprensa.
+
+3.7 Clipping, monitoramento e análise de mídia.
+
+3.8 Gestão de imagem e reputação institucional.
+
+3.9 Comunicação de crise.
+
+---
+
+### 4. Comunicação Digital e Redes Sociais
+
+4.1 Planejamento de comunicação digital.
+
+4.2 Redes sociais e plataformas digitais.
+
+4.3 Produção de conteúdo multiplataforma.
+
+4.4 Calendário editorial.
+
+4.5 Storytelling digital.
+
+4.6 Copywriting e UX Writing.
+
+4.7 Gestão de comunidades e relacionamento digital.
+
+4.8 Monitoramento de redes sociais.
+
+4.9 Gestão de crises em ambientes digitais.
+
+4.10 Boas práticas para comunicação digital.
+
+4.11 Acessibilidade digital.
+
+---
+
+### 5. Marketing Institucional e Branding
+
+5.1 Conceitos de marketing.
+
+5.2 Marketing institucional.
+
+5.3 Branding.
+
+5.4 Posicionamento institucional.
+
+5.5 Gestão de marca.
+
+5.6 Comunicação integrada de marketing.
+
+5.7 Marketing de conteúdo.
+
+5.8 Campanhas institucionais.
+
+5.9 Planejamento e avaliação de campanhas.
+
+---
+
+### 6. Comunicação Interna e Relacionamento com Públicos
+
+6.1 Comunicação interna.
+
+6.2 Endomarketing.
+
+6.3 Gestão da mudança.
+
+6.4 Cultura organizacional.
+
+6.5 Canais internos de comunicação.
+
+6.6 Públicos estratégicos e stakeholders.
+
+6.7 Técnicas de relações públicas.
+
+---
+
+### 7. Planejamento e Gestão da Comunicação
+
+7.1 Planejamento estratégico de comunicação.
+
+7.2 Plano de comunicação.
+
+7.3 Diagnóstico e auditoria de comunicação.
+
+7.4 Governança da comunicação.
+
+7.5 Gestão de projetos de comunicação.
+
+7.6 Comunicação baseada em dados (Data Driven Communication).
+
+7.7 Indicadores de desempenho (KPIs) e métricas.
+
+7.8 Pesquisa de imagem, reputação e satisfação.
+
+7.9 Pesquisas qualitativas e quantitativas.
+
+7.10 Métodos de amostragem, elaboração de questionários e grupos focais.
+
+---
+
+### 8. Produção Editorial, Design e Audiovisual
+
+8.1 Planejamento editorial.
+
+8.2 Editoração eletrônica.
+
+8.3 Design aplicado à comunicação institucional.
+
+8.4 Produção gráfica e digital.
+
+8.5 Produção audiovisual.
+
+8.6 Roteirização para vídeo e podcast.
+
+8.7 Fotografia institucional.
+
+8.8 Infográficos e visualização da informação.
+
+---
+
+### 9. Ferramentas de Comunicação
+
+9.1 Ferramentas de edição de imagem, vídeo e diagramação do Adobe Creative Cloud (Photoshop, Illustrator, InDesign, Premiere Pro e After Effects) ou equivalentes.
+
+9.2 Ferramentas colaborativas para produção de conteúdo.
+
+9.3 Conceitos de gestão de conteúdo (CMS).
+
+---
+
+### 10. Comunicação, Inovação e Tecnologia
+
+10.1 Inteligência Artificial aplicada à comunicação.
+
+10.2 Uso ético da Inteligência Artificial na produção de conteúdo.
+
+10.3 Curadoria e validação de informações produzidas com apoio de IA.
+
+10.4 Desinformação, fake news e deepfakes.
+
+10.5 Tendências da comunicação digital.
+
+Regras de utilização:
+
+- Todo conteúdo programático deverá ser considerado cumulativo.
+- A ausência de um assunto neste documento significa que ele não deverá ser utilizado.
+- A IA poderá relacionar conteúdos de diferentes disciplinas apenas quando essa integração respeitar o conteúdo previsto neste edital.
+
+Regras para geração de materiais:
+
+- Toda questão deverá estar vinculada a pelo menos um item deste edital.
+- Sempre que possível, a IA deverá identificar internamente quais tópicos (ex.: 4.6, 7.3, 9.1) estão sendo avaliados em cada questão.
+- Questões interdisciplinares são permitidas, desde que todos os conteúdos envolvidos estejam previstos neste documento.
+- Ao gerar simulados completos, a IA deverá buscar distribuir as questões de forma proporcional entre os assuntos previstos neste edital, evitando concentração excessiva em poucos tópicos, salvo quando o usuário solicitar foco específico.
